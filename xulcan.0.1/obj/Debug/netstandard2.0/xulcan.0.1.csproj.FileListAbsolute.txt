@@ -1,0 +1,15 @@
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\bin\Debug\netstandard2.0\xulcan.0.1.deps.json
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\bin\Debug\netstandard2.0\xulcan.0.1.dll
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\bin\Debug\netstandard2.0\xulcan.0.1.pdb
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\obj\Debug\netstandard2.0\xulcan.0.1.csproj.AssemblyReference.cache
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\obj\Debug\netstandard2.0\xulcan.0.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\obj\Debug\netstandard2.0\xulcan.0.1.AssemblyInfoInputs.cache
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\obj\Debug\netstandard2.0\xulcan.0.1.AssemblyInfo.cs
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\obj\Debug\netstandard2.0\xulcan.0.1.csproj.CoreCompileInputs.cache
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\obj\Debug\netstandard2.0\xulcan.0.1.dll
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\obj\Debug\netstandard2.0\refint\xulcan.0.1.dll
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\obj\Debug\netstandard2.0\xulcan.0.1.pdb
+C:\Users\juanr\source\repos\xulcan.0.1\xulcan.0.1\obj\Debug\netstandard2.0\ref\xulcan.0.1.dll
